@@ -1,0 +1,23 @@
+[book]
+title = "Roblox Tooling Cheatbook"
+description = "A comprehensive, but not exhaustive, reference for external Roblox tooling."
+authors = ["Brooke Rhodes"]
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+additional-js = ["nagbar.js"]
+additional-css = ["nagbar.css", "sidebar.css"]
+git-repository-url = "https://github.com/roblox-cheatbook/roblox-cheatbook"
+edit-url-template = "https://github.com/roblox-cheatbook/roblox-cheatbook/issues/new"
+smart-punctuation = true
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2

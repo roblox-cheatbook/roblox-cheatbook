@@ -1,0 +1,32 @@
+html,body {
+    height: 100vh;
+}
+
+.nagbar {
+    overflow-y: visible;
+    padding: 16px;
+}
+
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.page {
+    flex-grow: 1;
+    flex-direction: column;
+}
+
+.content {
+    padding-bottom: 0px;
+}
+
+.ghsponsors-button {
+    top: -8px;
+    position: relative;
+}
+.ghsponsors-button-small {
+    top: -5px;
+    position: relative;
+}
