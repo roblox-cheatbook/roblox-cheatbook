@@ -11,6 +11,8 @@ tools, and provides solutions to some common development problems.
 Designed to be easy to read, straight to the point, using simple language to
 focus on the important information.
 
+This project is heavily inspired by Bevy's unofficial cheatbook.
+
 ## Support Me
 
 If you like this book, please consider supporting me via [GitHub Sponsors](https://github.com/sponsors/grilme99).
